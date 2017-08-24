@@ -1,3 +1,26 @@
 header {
     background-image: url(../img/header.png);
 }
+
+#scroll-btn-down {
+	width: 70px;
+	height: 70px;
+	margin-top: 15px;
+	padding: 7px 16px;
+	border: 2px solid white;
+	border-radius: 100% !important;
+	font-size: 40px;
+	color: white;
+	background: transparent;
+	-webkit-transition: background 0.3s ease-in-out;
+	-moz-transition: background 0.3s ease-in-out;
+	transition: background 0.3s ease-in-out;
+}
+
+#scroll-btn-down:hover {
+	color: #F05F40;
+}
+
+#fa-double-down:active {
+	color: #fff;
+}
