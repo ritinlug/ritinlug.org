@@ -2,6 +2,11 @@ header {
     background-image: url(../img/header.png);
 }
 
+#img-logo {
+	margin-top: 6%;
+	margin-bottom: 15px;
+}
+
 #scroll-btn-down {
 	width: 70px;
 	height: 70px;
