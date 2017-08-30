@@ -2,7 +2,7 @@
 
 This is the repo of RIT India Linux Users Group's site [http://ritinlug.org](#)
 
-Website uses [Creative template by BlackrockDigital](https://github.com/blackrockdigital/startbootstrap-creative/) 
+Website uses [Creative template by BlackrockDigital](https://github.com/blackrockdigital/startbootstrap-creative/) which is licensed under MIT License. See the [LICENSE](https://github.com/blackrockdigital/startbootstrap-creative/blob/master/LICENSE) for full text.
 
 Site can be viewed at 
 
