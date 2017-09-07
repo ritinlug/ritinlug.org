@@ -29,3 +29,23 @@ header {
 #fa-double-down:active {
 	color: #fff;
 }
+
+#social-sites {
+  padding-top: 30px;
+}
+
+#facebook {
+  color: #333;
+}
+
+#facebook:hover {
+  color: #3b5998;
+}
+
+#twitter {
+  color: #333;
+}
+
+#twitter:hover {
+  color: #0084b4;
+}
