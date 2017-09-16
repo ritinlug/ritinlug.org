@@ -49,3 +49,10 @@ header {
 #twitter:hover {
   color: #0084b4;
 }
+#github {
+  color: #333;
+}
+
+#github:hover {
+  color: #6e5494;
+}
