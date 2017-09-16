@@ -49,3 +49,10 @@ header {
 #twitter:hover {
   color: #0084b4;
 }
+
+.carousel-inner > .item > a > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
