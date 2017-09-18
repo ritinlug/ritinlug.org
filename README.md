@@ -1,6 +1,4 @@
-<a href="https://ritinlug.org">
-<img src="https://d33wubrfki0l68.cloudfront.net/503c2a8802b7d680338113386db3763b2409220f/96b4b/img/logo14.png" />
-</a>
+# ritinlug.org
 
 This is the repo of RIT India Linux Users Group's site [https://ritinlug.org](https://ritinlug.org)
 
@@ -15,11 +13,3 @@ Site is auto deployed and can be also viewed at
 # Licensing
 
 Code is licensed under MIT License. See [LICENSE](https://github.com/ritinlug/ritinlug.org/blob/master/LICENSE) for the full license text.
-
-
-
-<img src="http://dk6kcyuwrpkrj.cloudfront.net/wp-content/uploads/sites/42/2015/06/joinus-black.png" />
-
-On freenode
-<pre><code>#ritinlug
-</code></pre>
