@@ -1,4 +1,6 @@
-# ritinlug.org
+<a href="https://ritinlug.org">
+<img src="https://d33wubrfki0l68.cloudfront.net/503c2a8802b7d680338113386db3763b2409220f/96b4b/img/logo14.png" />
+</a>
 
 This is the repo of RIT India Linux Users Group's site [https://ritinlug.org](https://ritinlug.org)
 
