@@ -19,6 +19,7 @@ Code is licensed under MIT License. See [LICENSE](https://github.com/ritinlug/ri
 
 
 <img src="http://dk6kcyuwrpkrj.cloudfront.net/wp-content/uploads/sites/42/2015/06/joinus-black.png" />
+
 On freenode
 <pre><code>#ritinlug
 </code></pre>
